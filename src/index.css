@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  background-color: #faf5ff;
+  color: #1e1b4b;
+}
+
+.font-script {
+  font-family: 'Pacifico', cursive;
+}
+
+.pastel-mesh {
+  background: radial-gradient(circle at 10% 20%, rgba(244, 114, 182, 0.15) 0%, rgba(192, 132, 252, 0.12) 50%, rgba(129, 140, 248, 0.15) 100%);
+}
